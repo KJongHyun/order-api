@@ -12,6 +12,10 @@
     - Redis (Embedded)
     - Junit
 ---
+## jar
+git 디렉토리 첨부  
+order-api-0.0.1-SNAPSHOT.jar  
+
 ## ERD
 ![image](https://github.com/KJongHyun/order-api/assets/18495291/0ce1293e-ea25-43ad-9bab-3b9b42b38028)
 
