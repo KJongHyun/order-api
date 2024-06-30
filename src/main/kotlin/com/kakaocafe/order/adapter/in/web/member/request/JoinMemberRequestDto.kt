@@ -17,7 +17,6 @@ data class JoinMemberRequestDto(
     val name: String,
     val gender: Gender,
     val phoneNumber: String,
-    @DateTimeFormat(pattern = "yyyyMMdd")
     val birthDay: LocalDate,
 ) {
     fun toCommand(): JoinMemberCommand {
