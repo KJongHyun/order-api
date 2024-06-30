@@ -12,6 +12,10 @@
     - Redis (Embedded)
     - Junit
 ---
+## ERD
+![image](https://github.com/KJongHyun/order-api/assets/18495291/0ce1293e-ea25-43ad-9bab-3b9b42b38028)
+
+---
 ## API spec
 ## 회원가입  
 ### HTTP request
